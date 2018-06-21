@@ -1,4 +1,8 @@
 body {
-    font: 16px Halvetics, Arial, sans-serif;
-    
+    font: normal 16px Helvetica, Arial, Sans-serif;
+}
+
+
+h1 {
+    font-size: 42px;
 }
